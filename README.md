@@ -4,7 +4,7 @@
 เปิด CMD / Terminal
 
 ```python
-pip install myfirst
+pip install myfirst2021
 ```
 
 ### วิธีเล่น
